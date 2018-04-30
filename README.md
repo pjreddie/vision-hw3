@@ -4,7 +4,7 @@ Welcome friends,
 
 It's time for optical flow!
 
-To start out this homework, copy over your `process_image.c`, `filter_image.c`, `resize_image.c`, `harris_image.c`, and`panorama_image.c` files from hw1 to the `src` file in this homework. We will be continuing to build out your image library.
+To start out this homework, copy over your `process_image.c`, `filter_image.c`, `resize_image.c`, `harris_image.c`, and`panorama_image.c` files from hw2 to the `src` directory in this homework. We will be continuing to build out your image library.
 
 ## 1.1 Integral images ##
 
